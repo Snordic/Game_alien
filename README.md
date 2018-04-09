@@ -13,9 +13,12 @@
 
 Скрипт требует для своей работы установленного интерпретатора Python версии 3.5.
 
+
+
 Запуск на Linux:
 
 ```bash
+pip install -r requirements.txt # alternatively try pip3
 
 $ python alien_invasion  # possibly requires call of python3 executive instead of just python
 ```
